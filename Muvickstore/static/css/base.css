@@ -1,0 +1,18 @@
+body{
+	background: #B8E4FF;
+	margin: 0;
+	padding: 0;
+}
+nav{
+	background: #F2FAFF;
+	width: 100%;
+	margin: 0;
+}
+
+.destacados{
+	background: #099BFF;
+}
+
+.productosp{
+	background: #E1D011;
+}
